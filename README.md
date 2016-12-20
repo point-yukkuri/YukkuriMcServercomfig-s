@@ -1,0 +1,2 @@
+# YukkuriMcServercomfig-s
+このファイルはYukkuriMcserverのコンフィグファイルです
